@@ -1,0 +1,125 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Producto 1",
+        "precio": 10.99,
+        "stock": 100
+      },
+      {
+        "id": 2,
+        "nombre": "Producto 2",
+        "precio": 25.99,
+        "stock": 50
+      },
+      {
+        "id": 3,
+        "nombre": "Producto 3",
+        "precio": 15.99,
+        "stock": 75
+      },
+      {
+        "id": 4,
+        "nombre": "Producto 4",
+        "precio": 12.99,
+        "stock": 200
+      },
+      {
+        "id": 5,
+        "nombre": "Producto 5",
+        "precio": 8.99,
+        "stock": 150
+      },
+      {
+        "id": 6,
+        "nombre": "Producto 6",
+        "precio": 30.99,
+        "stock": 25
+      },
+      {
+        "id": 7,
+        "nombre": "Producto 7",
+        "precio": 9.99,
+        "stock": 300
+      },
+      {
+        "id": 8,
+        "nombre": "Producto 8",
+        "precio": 18.99,
+        "stock": 100
+      },
+      {
+        "id": 9,
+        "nombre": "Producto 9",
+        "precio": 22.99,
+        "stock": 50
+      },
+      {
+        "id": 10,
+        "nombre": "Producto 10",
+        "precio": 17.99,
+        "stock": 75
+      },
+      {
+        "id": 11,
+        "nombre": "Producto 11",
+        "precio": 20.99,
+        "stock": 200
+      },
+      {
+        "id": 12,
+        "nombre": "Producto 12",
+        "precio": 11.99,
+        "stock": 150
+      },
+      {
+        "id": 13,
+        "nombre": "Producto 13",
+        "precio": 28.99,
+        "stock": 25
+      },
+      {
+        "id": 14,
+        "nombre": "Producto 14",
+        "precio": 14.99,
+        "stock": 300
+      },
+      {
+        "id": 15,
+        "nombre": "Producto 15",
+        "precio": 19.99,
+        "stock": 100
+      },
+      {
+        "id": 16,
+        "nombre": "Producto 16",
+        "precio": 24.99,
+        "stock": 50
+      },
+      {
+        "id": 17,
+        "nombre": "Producto 17",
+        "precio": 13.99,
+        "stock": 75
+      },
+      {
+        "id": 18,
+        "nombre": "Producto 18",
+        "precio": 27.99,
+        "stock": 200
+      },
+      {
+        "id": 19,
+        "nombre": "Producto 19",
+        "precio": 16.99,
+        "stock": 150
+      },
+      {
+        "id": 20,
+        "nombre": "Producto 20",
+        "precio": 21.99,
+        "stock": 25
+      }
+    ]
+  }
+  
